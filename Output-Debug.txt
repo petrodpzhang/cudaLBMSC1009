@@ -1,0 +1,53 @@
+﻿'cudaLBMSC1009.exe' (Win32): Loaded 'D:\cuda code\cudaLBMSC1009\x64\Debug\cudaLBMSC1009.exe'. Symbols loaded.
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x2c70 has exited with code 0 (0x0).
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\nvcuda.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvmii.inf_amd64_44053d7dadab442d\nvcuda64.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'cudaLBMSC1009.exe' (Win32): Unloaded 'C:\Windows\System32\dwmapi.dll'
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\nvapi64.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\umpdc.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. 
+'cudaLBMSC1009.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvmii.inf_amd64_44053d7dadab442d\nvptxJitCompiler64.dll'. Module was built without symbols.
+The thread 0x364c has exited with code 0 (0x0).
+The thread 0x4a44 has exited with code 0 (0x0).
+The thread 0x4830 has exited with code 0 (0x0).
+The thread 0x2774 has exited with code 0 (0x0).
+The thread 0x48d4 has exited with code 0 (0x0).
+The thread 0x2700 has exited with code 0 (0x0).
+The program '[16044] cudaLBMSC1009.exe' has exited with code 0 (0x0).
